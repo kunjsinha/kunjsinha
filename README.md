@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Kunj Sinha
 
-<!--
-**kunjsinha/kunjsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Welcome to my Github Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+I’m a first-year Computer Science student who enjoys building things and exploring how software can be used in **socially impactful systems**.
+I’m interested in understanding systems end-to-end, learning by building, and contributing to open-source projects that solve real problems.
+
+
+---
+
+## Skills & tools
+
+**Languages:** Python, SQL, JavaScript (basic)  
+**Backend:** Flask / Django, REST APIs  
+**Data:** pandas, NumPy, data visualization  
+**Databases:** PostgreSQL, SQLite  
+**Tools:** Git, GitHub, Linux, Docker (learning)
+
+## What I’m working toward
+
+- Becoming a strong, well rounded software engineer
+- Exploring different areas of computer science through practice
+- Building a portfolio of real, well-documented projects  
+- Collaborating in open-source communities  
