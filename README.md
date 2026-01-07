@@ -14,11 +14,11 @@ I’m interested in understanding systems end-to-end, learning by building, and 
 
 ## Skills & tools
 
-**Languages:** Python, SQL, JavaScript (basic)  
+**Languages:** Python, SQL, HTML,CSS, JavaScript (basic)  
 **Backend:** Flask / Django, REST APIs  
 **Data:** pandas, NumPy, data visualization  
 **Databases:** PostgreSQL, SQLite  
-**Tools:** Git, GitHub, Linux, Docker (learning)
+**Tools:** Git, GitHub, Docker (learning)
 
 ## What I’m working toward
 
