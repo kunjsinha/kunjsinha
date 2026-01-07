@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kunj Sinha
 
----
+
 
 Welcome to my Github Profile!
 
@@ -11,7 +11,6 @@ I’m a first-year Computer Science student who enjoys building things and explo
 I’m interested in understanding systems end-to-end, learning by building, and contributing to open-source projects that solve real problems.
 
 
----
 
 ## Skills & tools
 
